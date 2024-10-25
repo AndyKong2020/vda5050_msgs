@@ -1,0 +1,3 @@
+float64 agvSpeedLimit
+float64 agvAccelerationLimit
+float64 agvDecelerationLimit

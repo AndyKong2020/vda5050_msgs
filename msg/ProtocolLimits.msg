@@ -1,0 +1,3 @@
+vda5050_msgs/MaxStringLens maxStringLens
+vda5050_msgs/MaxArrayLens maxArrayLens
+vda5050_msgs/Timing timing
