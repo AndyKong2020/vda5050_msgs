@@ -23,6 +23,7 @@ add_message_files(
     BoundingBoxReference.msg
     Connection.msg
     ControlPoint.msg
+    Corridor.msg
     Edge.msg
     EdgeState.msg
     EdgeStates.msg

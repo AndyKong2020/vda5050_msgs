@@ -1,0 +1,3 @@
+float64 leftWidth
+float64 rightWidth
+string corridorRefPoint
