@@ -2,6 +2,7 @@ string type
 bool isActiveDriven
 bool isActiveSteered
 vda5050_msgs/Position position
+float64 diameter
 float64 width
 float64 centerDisplacement
 string constraints

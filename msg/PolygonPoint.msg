@@ -1,4 +1,3 @@
-float64 point_x
-float64 point_y
+float64 x
+float64 y
 
-string description
